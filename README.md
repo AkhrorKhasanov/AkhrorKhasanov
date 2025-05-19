@@ -38,6 +38,9 @@
 **💻 Codeforces Rating**:  
 ![Codeforces Rating](https://cf.leed.at?id=Akhror)
 
+### 🥋 Codewars Stats
+[![Codewars](https://www.codewars.com/users/Akhror_Khasanov/badges/large)](https://www.codewars.com/users/Akhror_Khasanov)
+
 ---
 
 ## 📊 GitHub Stats
