@@ -32,8 +32,8 @@
 
 ## 📊 Stats & Activity  
 
-**⏱ My Coding Activity** (powered by [WakaTime](https://wakatime.com)):  
-[![wakatime](https://wakatime.com/badge/user/Akhror_Khasanov.svg)](https://wakatime.com/@Akhror_Khasanov)
+### ⏱ Weekly Coding Time (WakaTime)
+[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Akhror_Khasanov)](https://wakatime.com/@Akhror_Khasanov)
 
 **💻 Codeforces Rating**:  
 ![Codeforces Rating](https://cf.leed.at?id=Akhror)
