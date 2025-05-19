@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 💻 I’m a passionate **Full-Stack Developer** with experience in:
-  - `.NET`, `C#`, `Laravel`, `Django`, `React`, `Next.js`, `PHP`, `Python`
+  - `.NET`, `C#`, `Laravel`, `Django`, `React`, `Next.js`, `PHP`, `Python`, `C++`
 - 🚀 I have solved **2000+ programming problems** on platforms like:
   - **Codeforces**, **Codewars**, and **ACMP**
 - 🧠 Strong background in **Math & Physics**:
