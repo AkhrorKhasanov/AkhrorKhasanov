@@ -30,6 +30,16 @@
 
 ---
 
+## 📊 Stats & Activity  
+
+**⏱ My Coding Activity** (powered by [WakaTime](https://wakatime.com)):  
+[![wakatime](https://wakatime.com/badge/user/Akhror_Khasanov.svg)](https://wakatime.com/@Akhror_Khasanov)
+
+**💻 Codeforces Rating**:  
+![Codeforces Rating](https://cf.leed.at?id=Akhror)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
