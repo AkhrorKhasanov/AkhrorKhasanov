@@ -33,7 +33,7 @@
 ## 📊 Stats & Activity  
 
 ### ⏱ Weekly Coding Time (WakaTime)
-[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Akhror_Khasanov)](https://wakatime.com/@Akhror_Khasanov)
+[![My WakaTime stats]<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AkhrorKhasanov&theme=radical" alt="AkhrorKhasanov" />
 
 **💻 Codeforces Rating**:  
 ![Codeforces Rating](https://cf.leed.at?id=Akhror)
@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkhrorKhasanov&show_icons=true&theme=radical" width="47%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkhrorKhasanov&show_icons=true&theme=radical" alt="AkhrorKhasanov" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AkhrorKhasanov&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="47%">
 </p>
 
