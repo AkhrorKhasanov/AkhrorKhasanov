@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 💻 I’m a passionate **Full-Stack Developer** with experience in:
-  - `.NET`, `C#`, `Laravel`, `Django`, `React`, `Next.js`, `PHP`, `Python`, `C++`
+  - `Rust`, `.NET`, `C#`, `Laravel`, `Django`, `React`, `Next.js`, `PHP`, `Python`, `C++`
 - 🚀 I have solved **2000+ programming problems** on platforms like:
   - **Codeforces**, **Codewars**, and **ACMP**
 - 🧠 Strong background in **Math & Physics**:
@@ -32,8 +32,6 @@
 
 ## 📊 Stats & Activity  
 
-### ⏱ Weekly Coding Time (WakaTime)
-[![My WakaTime stats]<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AkhrorKhasanov&theme=radical" alt="AkhrorKhasanov" />
 
 **💻 Codeforces Rating**:  
 ![Codeforces Rating](https://cf.leed.at?id=Akhror)
