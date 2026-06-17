@@ -45,7 +45,6 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkhrorKhasanov&show_icons=true&theme=radical" alt="AkhrorKhasanov" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkhrorKhasanov&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="47%">
 </p>
 
 ---
